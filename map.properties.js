@@ -1,13 +1,14 @@
+
 var MapProperties = {
-    minZoom: -6,
-    maxZoom: 0,
+    minZoom: -3,
+    maxZoom: 2,
     defaultZoom: 0,
     imageFormat: "jpeg",
     minRegionX: -4,
     minRegionZ: -4,
     maxRegionX: 3,
     maxRegionZ: 3,
-    worldName: "Map 4k",
+    worldName: "P2E",
     background: "",
-    markers: []
+    markers: new Array()
 }
